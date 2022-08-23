@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "firstName": "djana",
+      "lastName": "ba",
+      "email": "djana@ba.com",
+      "mobile": "1234",
+      "salary": "4321",
+      "id": 1
+    },
+    {
+      "firstName": "brbr",
+      "lastName": "br",
+      "email": "brbr@br.com",
+      "mobile": "12345",
+      "salary": "54321",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "signupUsers": [
+    {
+      "fullname": "dja ba",
+      "email": "dj@ba.com",
+      "password": "hehejelradiovo",
+      "mobile": 387,
+      "id": 1
+    },
+    {
+      "fullname": "test test",
+      "email": "test@test.com",
+      "password": "test",
+      "mobile": 123,
+      "id": 2
+    },
+    {
+      "fullname": "dja ba",
+      "email": "123@321",
+      "password": "123",
+      "mobile": 123,
+      "id": 3
+    }
+  ]
+}
